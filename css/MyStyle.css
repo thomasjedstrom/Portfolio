@@ -1,0 +1,37 @@
+body {
+    font-family: 'Roboto', sans-serif;
+}
+
+.navbar {
+    margin-bottom: 0;
+}
+
+.mainhead {
+    min-height: 80vh;
+    background-image: url("../Images/ws_Working_1920x1200.jpg");
+    background-size: cover;
+    background-attachment: fixed;
+}
+
+.mainhead h2 {
+    font-weight: bold;    
+}
+
+.mainhead .panel {
+    display: inline-block;
+    width: 24%;
+    margin-top: 30vh;
+    margin-left: 38%;
+    text-align: center;
+    opacity: .5;
+}
+
+.about {
+    margin-top: 10em;
+    font-size: 1.3em;
+}
+
+.window {
+    border-color: black;
+    border-width: thick;
+}
